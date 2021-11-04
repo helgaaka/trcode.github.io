@@ -1,0 +1,21 @@
+.web {
+  width: 300px;
+  height: 200px;
+}
+
+.input {
+  width: 300px;
+}
+
+.img {
+  width: 150px;
+  height: 150px;
+}
+
+.sec {
+  height: 300px;
+}
+
+.colab {
+  border-radius: 10px;
+}
